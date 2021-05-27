@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/yusufayhan0/react-opacity-color/blob/main/gif.gif" />
+ <img src="https://github.com/yusufayhan0/react-opacity-color/blob/master/gif.gif" />
 </p>
  
 
